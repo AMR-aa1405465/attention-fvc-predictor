@@ -96,6 +96,6 @@ zict==2.0.0
 zipp==3.1.0
 zope.event==4.4
 zope.interface==4.7.1
-tensorflow
+tensorflow-cpu
 keras
 cv2
